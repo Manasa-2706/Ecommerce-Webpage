@@ -1,7 +1,9 @@
 body{
     margin: 0px;
 }
-
+.navbar-brand{
+    font-weight: bold;
+}
 .navbar-buttons{
     align-content: end;
     margin-left: 450px; 
