@@ -32,21 +32,19 @@ footer{
 }
 
 .banner-image {
-
-    width: 95vw;
     border-radius: 6px;
     background-size: cover;
     position: relative;
     margin-top: 100px;
-    margin-left: 35px;
+
 }
 
 .banner-content {
     font-size: 25px;
     position: absolute;
     top: 260px;
-    left: 40px;
-    right: 20px;
+    left: 150px;
+    right: 10px;
     color: #fff;
     padding: 15px;
 }
