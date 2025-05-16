@@ -88,6 +88,19 @@ section .filter-buttons .filter-btn:hover {
     color: #FFFFFF;
 }
 
+
+textarea{
+    height: 20vh;
+}
+
+.send-btn{
+    margin-left: 47%;
+    border: 2px grey;
+    text-align: center;
+    border-radius: 5px;
+    background-color: grey;
+    color: white;
+}
 /* Product Grid */
 .product-grid {
     display: grid;
