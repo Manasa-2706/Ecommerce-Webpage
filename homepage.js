@@ -40,7 +40,7 @@ function displayProducts(products) {
       <div class="product-info">
         <img src="${product.image}" alt="${product.title}"> 
         <h3>${product.title.slice(0, 12)}...</h3>
-        <p>${product.description.slice(0, 70)}...</p>
+        <p>${product.description.slice(0, 50)}...</p>
       </div>
       <hr>
       <div class="price-box">
